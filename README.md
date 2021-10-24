@@ -1,7 +1,7 @@
 # Welcome to my Github!!
 ## I call myself Tiago and count how you!
 
-## Over me:
+## About me:
 💻  I'm student of Analyze and development of Systems in FIAP.
 
 🏡 I'm currently live in São Paulo (Brazil).
