@@ -13,15 +13,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t_semh/)
 
 
+## Technologies that i use in my day in day.
 <div>
 <img height="180em" width="360px" src="https://github-readme-stats.vercel.app/api?username=tsemh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" width="350px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsemh&layout=compact&langs_count=7&theme=dracula"/>
 <div>
 
-
-
-
-## Technologies that i use in my day in day.
 <div style="display: inline_block"></br>
     <img align="center "alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center "alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
