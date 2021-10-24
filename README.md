@@ -1,4 +1,4 @@
-# Welcome to my github!!
+# Welcome to my Github!!
 ## I call myself Tiago and count how you!
 
 ## Over me:
