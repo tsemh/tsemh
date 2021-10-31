@@ -6,7 +6,7 @@
 
 🏡 I'm currently live in São Paulo (Brazil).
 
-📚 My current focus is learning JavaScript and your technologies.
+📚 My current focus is learning JavaScript, Python and some technologies of the both.
 
 ## You can find me in:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-b-silva/)
